@@ -1,4 +1,4 @@
-# Makefile example
+ # Makefile example
 # Variables CC and CXX are automatically set on all UNIX systems.
 
 # Variable settings
